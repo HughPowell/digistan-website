@@ -1,0 +1,31 @@
+++ Who this site is for
+
+www.{PROJ}.org is a tool for anyone interested in this domain to extend, improve, or build on {PROJ}.  It is meant to be transparent, easy to use, fast, simple.  This site is a way for people to work together to make specifications.
+
+++ Consensus, not authority
+
+COSS - the consensus-oriented specification system is explained [http://www.digistan.org/spec:1/coss here].  This is a specification for how we collaborate on this site.
+
+++ How this site works
+
+The site is open to anyone who accepts the [[[main:intellectual property policy]]].  There is a minimum of formality.  Anyone can contribute ideas and specifications.  Every contributor keeps their copyrights but grants a license to everyone else, under the GPLv3.  Specifications are considered to be "source code".
+
+We don't use formal reviews.  Each spec has one editor, who makes all changes and defines the spec's [[[spec:1|status]]] (raw, draft, stable, etc.)
+
+[[[main:Discussion]]] happens informally via email, wiki, irc, or comments on the site.  Contributors can work in public or in private as they like.  Most discussion happens on the [[[main:discussion | mailing list]]].
+
+We use //forking// to rejuvenate old specs, change editors, or resolve conflict over design choices.  Forking means taking an existing spec text, and creating a new instance.  Unlike most standards projects, we like being able to fork.
+
+Specifications are numbered and higher numbers mean "experimental" while lower numbers mean "stable".
+
+The only significance that a spec has is the number of people who implement it.  The website will track and show this, at a later stage, and if {PROJ} becomes successful.
+
+++ How to register
+
+Read the the [[[main:terms of use]]] and [[[main:intellectual property policy]]], then [[[main:registration|register on-line]]].  If you're an employee or work at a university, get //written// permission to contribute to this site, as for any open source project.
+
+++ What else?
+
+The operators of the site may, in situations of conflict, intervene to ensure a smooth process.  If you are a regular contributor you may be invited to become a moderator or operator.
+
+====

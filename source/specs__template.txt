@@ -1,0 +1,68 @@
+[[div style="float:left; width: 68%"]]
+[[table style="margin-left:1em"]]
+[[row]]
+[[cell style="border:1px solid #840420; background:#d2b3ba; padding: 0 1em 0 1em; margin:1em"]]
+**[[[specs:raw|Raw]]]**
+[[/cell]]
+[[cell style="border:1px solid #005800; background:#adc2ad; padding: 0 1em 0 1em; margin:1em"]]
+**[[[specs:draft|Draft]]]**
+[[/cell]]
+[[cell style="border:1px solid #684622; background:#a39485; padding: 0 1em 0 1em; margin:1em"]]
+**[[[specs:stable|Stable]]]**
+[[/cell]]
+[[cell style="border:1px solid #000069; background:#bebecf; padding: 0 1em 0 1em; margin:1em"]]
+**[[[specs:legacy|Legacy]]]**
+[[/cell]]
+[[cell style="border:1px solid #808080; background:#eaeaea; padding: 0 1em 0 1em; margin:1em"]]
+**[[[specs:retired|Retired]]]**
+[[/cell]]
+[[cell style="border:1px solid #000000; background:#a0a0a0; padding: 0 1em 0 1em; margin:1em"]]
+**[[[specs:deleted|Deleted]]]**
+[[/cell]]
+[[/row]]
+[[/table]]
+
+%%content%%
+[[/div]]
+[[div style="float:right; width:30%; border:1px solid #cedff2; background:#f5faff; padding: 5px 5px 5px 5px"]]
+
+[[module ListPages category="spec" tags="-draft -stable -legacy -retired -deleted" ]]
+[[div style="border:1px solid #840420; background:#d2b3ba; padding: 0 1em 0 1em; margin:1em"]]
+**%%linked_title%%** - //Raw//
+[[/div]]
+[[/module]]
+
+[[module ListPages category="spec" tags="draft" ]]
+[[div style="border:1px solid #005800; background:#adc2ad; padding: 0 1em 0 1em; margin:1em"]]
+**%%linked_title%%** - //Draft//
+[[/div]]
+[[/module]]
+
+[[module ListPages category="spec" tags="stable" ]]
+[[div style="border:1px solid #684622; background:#a39485; padding: 0 1em 0 1em; margin:1em"]]
+**%%linked_title%%** - //Stable//
+[[/div]]
+[[/module]]
+
+[[module ListPages category="spec" tags="legacy" ]]
+[[div style="border:1px solid #000069; background:#bebecf; padding: 0 1em 0 1em; margin:1em"]]
+**%%linked_title%%** - //Legacy//
+[[/div]]
+[[/module]]
+
+[[module ListPages category="spec" tags="retired" ]]
+[[div style="border:1px solid #808080; background:#eaeaea; padding: 0 1em 0 1em; margin:1em"]]
+**%%linked_title%%** - //Retired//
+[[/div]]
+[[/module]]
+
+[[module ListPages category="spec" tags="deleted" ]]
+[[div style="border:1px solid #000000; background:#a0a0a0; padding: 0 1em 0 1em; margin:1em"]]
+**%%linked_title%%** - //Deleted//
+[[/div]]
+[[/module]]
+
+[[/div]]
+~~~~
+
+====

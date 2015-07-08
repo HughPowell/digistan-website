@@ -1,0 +1,9 @@
+Registered editors are:
+
+[[module Members]]
+
+====
+
+++ Join
+
+ >> [[[main:registration | Become an editor]]]

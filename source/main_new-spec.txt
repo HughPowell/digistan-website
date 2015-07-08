@@ -1,0 +1,34 @@
+++ Why create a new specification?
+
+When we make open source software we depend on many patterns, ways of doing things.  There are good and bad designs.  If you can document your design and get other people to use it in //their// software, chances are it'll become better.  Specifications can be for "a protocol, a process, an API, a use of language, or any other aspect of a technical environment that can usefully be documented for the purposes of technical or social interoperability", to quote the [http://www.digistan.org/spec:1/COSS Consensus-Oriented Specification System].
+
+++ Naming conventions
+
+Specifications are numbered, but this happens automatically when you create them.  You need to choose a name for the spec, and an abbreviation.  This just makes it easier for people to refer to the spec.  The title of the spec is "<abbreviation> - <name>".  You refer to it as "www.{PROJ}.org/spec:<number>/<abbreviation>" or "<number>/<abbreviation>".
+
+++ Prerequisites
+
+Before you can create a new spec, you must be [[[main:registration|registered]]] as an editor.  You have to read and agree with the [[[main:terms of use]]] and [[[main:intellectual property policy]]] of this site.  You need to be registered as a Wikidot user (this site is hosted on Wikidot).  And you should join the [[[main:discussion | mailing list]]].
+
+++ It's your baby
+
+If you start a new specification, you're responsible for it.  That means you are the editor, and the only editor of the page.  If this is too much responsibility for you, ask the public mailing list for help.  The only way to change the editor of an existing specification is to [[[main:fork-spec|fork it]]] and delete the old one.  "Delete" means "tag with the deleted tag".  No specs are actually deleted.
+
+++ Tagging
+
+Untagged specs are considered "raw".  When you have running code, tag the spec as "draft".  When you have real users, tag it as "stable".  When you have production users and are thinking of a new version, tag it "legacy".  When you have replaced it with a new spec, tag the old one "retired".  If you decide you want to abandon a raw or draft spec, tag it "deleted".
+
+++ Go for it
+
+Choose a good name for your spec, and enter the "<abbreviation> - <name>" below.  You can change the name later.  When you click "Create", you'll get a template for the new spec.  Enter the information you can, save the page.  For heavy editing work, usually it's easiest to work offline, using a text editor, and then paste your work back into the wiki page.
+
+[[module NewPage length="40" category="spec" tags="raw" button="Create"]]
+
+====
+
+++ Recent edits
+
+[[module ListPages  category="*" limit="20" separate="false" order="dateEditedDesc"]]
+**%%category%%:%%linked_title%%**
+(%%date_edited|%O ago%%)
+[[/module]]

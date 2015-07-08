@@ -1,0 +1,49 @@
+++ Why fork a specification?
+
+You can fork any specification at any point. You do this by copying the existing text, and creating a new specification with the same name and content, but a new number.  The reasons you might need to fork include:
+
+# To change the responsible editor for a specification, with or without the cooperation of the current responsible editor.
+# To rejuvenate a specification that is stable but needs functional changes. This is the proper way to make a new version of a specification that is in stable or deprecated status.
+# To resolve disputes between different technical opinions.
+# To allow new raw versions of existing specifications.
+
+A fork is a different specification, even if it carries the same name. Forks have no special status except that accorded by the community.
+
+++ The right to fork
+
+While conventional standards-setting processes frown on forking, because it tends to reduce interoperability, we consider the right to fork to be an essential freedom, and it is one that the [[[main:intellectual property policy]]] of this site enshrines.  Forking gives better designs a chance to emerge and it places the burden of choice on the Community, especially implementors and users, rather than on top-down processes.
+
+++ Naming conventions
+
+When you fork a specification, if you intend to design a new version of the same specification, give it the same name.  If you intend to make a knock-off that has radical improvements, feel free to invent a new name.
+
+++ Prerequisites
+
+Forking a specification means creating a new spec.  Before you can create a new spec, you must be [[[main:registration|registered]]] as an editor.  You have to read and agree with the [[[main:terms of use]]] and [[[main:intellectual property policy]]] of this site.  You must first be registered as a Wikidot user.  And you should join the [[[main:discussion | mailing list]]].
+
+++ It's your baby
+
+If you start a new specification, you're responsible for it.  That means you are the editor, and the only editor of the page.  If this is too much responsibility for you, ask the public mailing list for help.  The only way to change the editor of an existing specification is to [[[main:fork-spec|fork it]]] and delete the old one.  "Delete" means "tag with the deleted tag".  No specs are actually deleted.
+
+++ Copy the existing spec
+
+On the existing spec page, click the Source action at the top right.  If you don't see a Source action, you are either not logged in, or not [[[main:registration|registered]]] as editor.
+
+++ Abuse and sanctions
+
+Forking is a tool, and the operators of the site may suspend or ban people who abuse it.  We don't define "abuse" but basically if a fork creates more argument than it solves, that's a bad thing.
+
+++ Go for it
+
+Choose a good name for your spec, and enter the "<abbreviation> - <name>" below.  You can change the name later.  When you click "Create", you'll get a template for the new spec.  Paste the source of the old spec, change the state to "Raw" and save the page.  Remove all tags.  And then tell the public list what you've done and why.
+
+[[module NewPage length="40" category="spec" button="Create"]]
+
+====
+
+++ All specifications
+
+[[module ListPages  category="spec" separate="false" order="dateEditedDesc"]]
+**%%linked_title%%**
+(%%date_edited|%O ago%%)
+[[/module]]

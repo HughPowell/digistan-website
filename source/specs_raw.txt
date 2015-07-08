@@ -1,0 +1,6 @@
+[[module ListPages category="spec" tags="-draft -stable -legacy -retired -deleted" ]]
+[[div style="border:1px solid #840420; background:#d2b3ba; padding: 0 1em 0 1em; margin:1em"]]
+**%%linked_title%%** - //Raw//
+%%short%%
+[[/div]]
+[[/module]]

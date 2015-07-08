@@ -1,0 +1,30 @@
+[[div style="float:left; width: 66%; padding: 0 2% 0 2%"]]
+%%content%%
+
+[[module Comments title=""]]
+[[/div]]
+
+[[div style="float:left; width: 28%; padding: 0 1% 0 1%; background-color: #c9d5e7;"]]
+[[button edit text="Edit"]] | [[button files text="Files"]] | [[button tags text="Tags"]] | [[button source text="Source"]] | [[button print text="Print"]]
+
+[[module TagCloud category="wiki"]]
+
+[[toc]]
+
+[[div style="font-size:95%"]]
+[[module ListPages separate="no"]]
+* **%%linked_title%%** (%%date|%O ago%%)
+[[/module]]
+[[/div]]
+[[/div]]
+~~~~
+
+====
+
++ Title of wiki page
+
+First paragraph is shown on wiki summaries.
+
+Page content
+
+++ subtitle

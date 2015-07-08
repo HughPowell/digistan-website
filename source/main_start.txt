@@ -1,0 +1,126 @@
+> **To use this site for your own projects, you can (a) download [http://spec.digistan.org/local--files/main:start/spec.digistan.org.zip a backup] of this site's content and recreate a site from that, or (b) ask Digistan to build you a cloned site.**  When you have your new site, change {PROJ} to your project name in all pages, and edit the [[[main:contact]]] page.
+
+[[div style="float:left"]]
+
+[[f<image awesomer.png size="medium" link="http://xkcd.com/483/"]]
+
+This is the home of the {PROJ} community, for those helping to develop the {PROJ} specification, those making implementations, and users who want to help steer the process.
+
+[[div style="font-size:120%"]]
+New here?  Don't know what this site is all about?  >> [[[main:get-started | Get started]]], then:
+
+* [[[main:registration | Register]]] to become a contributor
+* [[[main:discussion | Discuss]]] anything you read on this site
+* [[[main:new-spec | Create]]] your own specifications
+* [[[main:fork-spec | Fork]]] a specification
+* [[[main:implementors | Implement]]] a specification in your own code
+[[/div]]
+[[/div]]
+
+++ Specifications
+
+[!-- Key --]
+[[table style="margin-left:1em"]]
+[[row]]
+[[cell style="border:1px solid #840420; background:#d2b3ba; padding: 0 1em 0 1em; margin:1em"]]
+**[[[specs:raw|Raw]]]**
+[[/cell]]
+[[cell style="border:1px solid #005800; background:#adc2ad; padding: 0 1em 0 1em; margin:1em"]]
+**[[[specs:draft|Draft]]]**
+[[/cell]]
+[[cell style="border:1px solid #684622; background:#a39485; padding: 0 1em 0 1em; margin:1em"]]
+**[[[specs:stable|Stable]]]**
+[[/cell]]
+[[cell style="border:1px solid #000069; background:#bebecf; padding: 0 1em 0 1em; margin:1em"]]
+**[[[specs:legacy|Legacy]]]**
+[[/cell]]
+[[cell style="border:1px solid #808080; background:#eaeaea; padding: 0 1em 0 1em; margin:1em"]]
+**[[[specs:retired|Retired]]]**
+[[/cell]]
+[[cell style="border:1px solid #000000; background:#a0a0a0; padding: 0 1em 0 1em; margin:1em"]]
+**[[[specs:deleted|Deleted]]]**
+[[/cell]]
+[[/row]]
+[[/table]]
+
+[[module ListPages category="spec" tags="raw" ]]
+[[div style="border:1px solid #840420; background:#d2b3ba; padding: 0 1em 0 1em; margin:1em"]]
+[[size large]]**%%linked_title%%**[[/size]] - //Raw//
+%%short%% (%%date|%O ago%%)
+[[/div]]
+[[/module]]
+
+[[module ListPages category="spec" tags="draft" ]]
+[[div style="border:1px solid #005800; background:#adc2ad; padding: 0 1em 0 1em; margin:1em"]]
+[[size large]]**%%linked_title%%**[[/size]] - //Draft//
+%%short%% (%%date|%O ago%%) 
+[[/div]]
+[[/module]]
+
+[[module ListPages category="spec" tags="stable" ]]
+[[div style="border:1px solid #684622; background:#a39485; padding: 0 1em 0 1em; margin:1em"]]
+[[size large]]**%%linked_title%%**[[/size]] - //Stable//
+%%short%% (%%date|%O ago%%) 
+[[/div]]
+[[/module]]
+
+[[module ListPages category="spec" tags="legacy" ]]
+[[div style="border:1px solid #000069; background:#bebecf; padding: 0 1em 0 1em; margin:1em"]]
+[[size large]]**%%linked_title%%**[[/size]] - //Legacy//
+%%short%% (%%date|%O ago%%) 
+[[/div]]
+[[/module]]
+
+[[module ListPages category="spec" tags="retired" ]]
+[[div style="border:1px solid #808080; background:#eaeaea; padding: 0 1em 0 1em; margin:1em"]]
+[[size large]]**%%linked_title%%**[[/size]] - //Retired//
+%%short%% (%%date|%O ago%%) 
+[[/div]]
+[[/module]]
+
+[[module ListPages category="spec" tags="deleted" ]]
+[[div style="border:1px solid #000000; background:#a0a0a0; padding: 0 1em 0 1em; margin:1em"]]
+[[size large]]**%%linked_title%%**[[/size]] - //Deleted//
+%%short%% (%%date|%O ago%%) 
+[[/div]]
+[[/module]]
+
+====
+
+++ Recent comments
+
+[[module MiniRecentPosts limit="6"]]
+
+++ Chatter
+
+[[module ListPages  category="chatter" limit="8" separate="false" order="dateEditedDesc"]]
+* **%%linked_title%%** - %%summary%%
+[[/module]]
+[[module NewPage category="chatter" button="New chatter"]]
+
+++ Recently
+
+[[module ListPages  category="main,wiki,spec" limit="8" separate="false" order="dateEditedDesc"]]
+**%%category%%:%%linked_title%%**
+[[/module]]
+
+++ Categories
+
+[[module ListPages category="wiki" separate="false" limit="0" order="dateEditedDesc" prependLine="**wiki** \"]]
+• %%linked_title%% \
+[[/module]]
+
+[[module ListPages category="talk" separate="false" limit="0" order="dateEditedDesc" prependLine="**talk** \"]]
+• %%linked_title%% \
+[[/module]]
+
+[[module ListPages category="main" separate="false" limit="0" order="dateEditedDesc" prependLine="**main** \"]]
+• %%linked_title%% \
+[[/module]]
+
+[[div style="font-size:90%"]]
+++ Latest on [http://lists.digistan.org/mailman/listinfo/{PROJ} {PROJ}@digistan.org]
+[[module Feed src="http://lists.digistan.org/pipermail/{PROJ}/{PROJ}.rss" limit="5"]]
+* **%%linked_title%%**: %%short%%
+[[/module]]
+[[/div]]

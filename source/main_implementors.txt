@@ -1,0 +1,47 @@
+++ Free and open specifications
+
+The goal of this website is to develop specifications that are [http://www.digistan.org/open-standard:definition free and open].
+
+++ License terms
+
+Contributors agree to license their work as source code under the terms of the  [http://www.fsf.org/licensing/licenses/gpl.html GPLv3].  We use the GPLv3 for two main reasons:
+
+* It aims to provide reasonable protection against patent ambush.
+* It ensures share-alike provisions on all works derived from the specifications.
+
+Contributors also agree to license their work as necessary for submission to the IETF as an Internet RFC, where and when this is relevant.
+
+++ Derived works
+
+Derived works are considered "free software" and fall under the terms of the GPLv3, like all specifications on this website.  **Software that implements specifications are not Derived Works and do //not// fall under the terms of the GPLv3 unless you actually make that choice.**
+
+From the [[[main:intellectual property policy]]]:
+
+> A "Derived Work" is any work derived from, as defined in the License, Contributions or Specifications. ... Software applications that implement specifications are not Derived Works and do not fall under the terms of the License. The use of a fragments of specification for purely illustrative purposes does not create a Derived Work.
+
+If you include parts of a specification in any written work, this falls under the terms of the GPLv3, unless you include only fragments for illustrative purposes.  If you write a book and include pieces of specifications to explain how things are done, that does not make your book a Derived Work.  If you write a technical document that includes pieces, even with changes, of specifications, with the goal of specifying the behaviour of a system, that would constitute a Derived Work and thus be considered "free software".
+
+++ Attribution
+
+There is no "advertising" clause but it's polite to give credit where due.  It is especially useful to note what specifications your software implements, for the benefit of users and the Community.
+
+++ Contributions
+
+Implementers are often well-placed to contribute ideas and improvements to specifications.  Ideally, you would get to the specification before it gets to a stable state.  Early implementers thus have more influence over the direction a specification will go in.
+
+++ Forking
+
+You have the right to fork a specification if you're dissatisfied with the way the editor of an existing specification is handling the work or your input.  Note that if you fork a specification, you are responsible for it.  This is, in fact how you take responsibility for a specification.
+
+++ Questions?
+
+If anything is unclear, ask the [[[main:discussion | mailing list]]].
+
+====
+
+++ All specifications
+
+[[module ListPages  category="spec" separate="false" order="dateEditedDesc"]]
+**%%linked_title%%**
+(%%date_edited|%O ago%%)
+[[/module]]

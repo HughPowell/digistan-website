@@ -1,0 +1,6 @@
+[[module ListPages category="spec" tags="legacy" ]]
+[[div style="border:1px solid #000069; background:#bebecf; padding: 0 1em 0 1em; margin:1em"]]
+**%%linked_title%%** - //Legacy//
+%%short%%
+[[/div]]
+[[/module]]

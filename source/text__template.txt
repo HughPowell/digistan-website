@@ -1,0 +1,32 @@
+[[div style="float:left; width: 66%; padding: 0 2% 0 2%"]]
+%%content{1}%%
+[[/div]]
+[[div style="float:left; width: 28%; padding: 0 1% 0 1%; background-color: #c9d5e7;"]]
+[[button edit text="Edit"]] | [[button files text="Attachments"]] | [[button tags text="Tags"]] | [[button source text="Source"]] | [[button print text="Print"]]
+
+%%content{2}%%
+
++++ Related pages
+
+[[div style="font-size:95%"]]
+[[module ListPages rssFeed="no" rssShow="no"]]
+**%%linked_title%%** (%%date|%O ago%%)
+
+[[/module]]
+[[/div]]
+
+[[/div]]
+~~~~
+
+====
+[!-- Repeat the title of the page here as h1, and use h2-h4 in the content --]
+
++ Title of page
+
+content
+
+====
+
+++ Other title
+
+Right hand column

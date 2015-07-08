@@ -1,0 +1,32 @@
+[[div style="float:left; width: 66%; padding: 0 2% 0 2%"]]
+%%content{2}%%
+
+[[module Comments title=""]]
+
+[[/div]]
+[[div style="float:left; width: 28%; padding: 0 1% 0 1%;"]]
+++ News
+
+[[div style="font-size:95%"]]
+[[module ListPages tags="public" category="news" rssShow="no"]]
++++ %%linked_title%%
+
+(%%date|%O ago%%) %%content{1}%%
+
+[[/module]]
+[[/div]]
+
+[[/div]]
+~~~~
+
+====
+
+Summary paragraph for news story
+
+====
+[!-- Repeat the title of the page here as h1, and use h2-h4 in the content --]
+[!-- Tag the news story 'public' when it has to appear on the front page --]
+
++ Title of news story
+
+content

@@ -1,0 +1,6 @@
+[[module ListPages category="spec" tags="deleted" ]]
+[[div style="border:1px solid #000000; background:#a0a0a0; padding: 0 1em 0 1em; margin:1em"]]
+**%%linked_title%%** - //Deleted//
+%%short%%
+[[/div]]
+[[/module]]

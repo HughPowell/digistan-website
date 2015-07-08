@@ -1,0 +1,23 @@
+This site is run by and for the {PROJ} Community, used to develop the {PROJ} specifications, and track the status of {PROJ} implementation and use.
+
+This site, its legal policies, graphics, templates, and framework contents were derived from the http://spec.digistan.org template developed by the [http://www.digistan.org Digital Standards Organization] (Digistan), which aims to promote grass-roots standardization projects, by providing reusable patterns and tools.  If you want help on a standardization project, contact desk@digistan.org.
+
+The site is powered and hosted by [http://www.wikidot.com Wikidot.com], an open source platform for collaborative wikis.  Using Wikidot makes it possible to build the right structures quickly.
+
+The goals of this site are social, and technical.  The social goals are:
+
+# To build an expert community around {PROJ}
+# To produce small, cheap, provable pieces of work
+# To offer a visible, rapid, and economic process
+# To allow anyone to walk-up and contribute
+
+And the technical goals are:
+
+# To provide a space for stability
+# To provide a space for experimentation
+# To grow free and open specifications
+# To allow these to become formal standards
+
+====
+
+Every contributor is responsible for his or her work.  You can contact the operators of the site via the [[[main:discussion | mailing list]]].

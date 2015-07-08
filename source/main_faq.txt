@@ -1,0 +1,61 @@
+++ Why don't I see an "Edit" action?
+
+As a logged in editor, you can edit any page in the 'wiki:' category, the 'main:' category, and //your own// pages in the spec: category.  The block on editing other people's specifications is deliberate, to force a single responsible editor.
+
+++ Do I need to sign something?
+
+This website uses a legally-binding click-through agreement.  You agree to publish your contributions as "source code" under the GPLv3.  It's a lot like contributing to a free software project.  If you do not agree with the click-through agreement, or do not have the right to contribute your work, do not use the site.
+
+++ Why don't you centralize copyrights?
+
+While we have seen centralized copyrights work for open source projects, it is extra work.  It needs a legal entity, and signed paperwork.  We want the process to be simpler.  Shared copyright appears to work just as well, so long as contributors grant some rights, such as the right to relicense the work if needed.
+
+++ Why the GPLv3?  Does this mean implementations are GPLv3-infected?
+
+GPLv3 appears to be the best license for the development of share-alike specifications.  It has good patent provisions, which we need.  It's got excellent lawyers working to make it robust.  And no, it has no impact on the software you might develop, it applies only to specifications.  The one case where it //might// be relevant is when specifications include source code that you copy directly into an implementation.
+
+++ I see contributions are also licensed under the IETF license?
+
+The intent is to allow a finished, mature specification be submitted to the IETF as an Internet RFC.  Up to the point of such submission - if it ever happens for a specification - only the GPLv3 applies.  However, all contributors allow their work to be packaged up in an IETF-licensed RFC when/if needed.
+
+++ What is the review process for specifications?
+
+We have no formal review process.  We have no top-down decision about what state a specification is in: this entirely up to the responsible editor.  All the weight that a specification carries comes from adoption.
+
+++ This is simple to abuse!
+
+Maybe.  If we find people abusing the process to make life hard for others (their competitors, we assume), and if this is considered "abuse" by a majority of the operators, we will fix the rules.
+
+++ So how do I become an operator
+
+Contribute, be good, and you may get an invitation.
+
+++ Who owns the specifications?
+
+Every contributor owns their original work, and specifications (the combined work of a group of  contributors) are owned by all contributors together.
+
+++ Who is in charge?
+
+No-one, except the Operators, that is, the people who set-up this site and wrote the first rules.  The operators don't intervene in specifications.  They only intervene in questions about the rules and the site's operation.
+
+++ What protection do we have against patent ambush
+
+To be honest, not a huge amount.  Yes, any firm contributing to a specification must make a unilateral promise to license any relevant and necessary patents, for free, to everyone, forever.  But other firms can, and probably will, patent stuff they think is useful, with the goal of ambushing successful markets afterwards.  You could do worse than to help [http://www.stopsoftwarepatents.org stop software patents].
+
+Having said this, the determined publication of new ideas is a good way to record prior art in such a way that offensive patents //can// be challenged, though it still requires non-trivial investment (an average of USD 50-100,000 if a patent is challenged during examination, and ten times more if challenged in court after being granted).
+
+++ What if I'm an employee?
+
+As for any contribution to an open source project, you must get written permission from your employer before discussing on an email list or writing stuff on a wiki.  Otherwise you're perhaps in breach of your employment contract and may cause other people some problems down the line.  In the worst case, your contributions will be removed and/or rewritten.
+
+This applies - depending on contractual details - to:
+
+* Employees
+* Consultants who are working on behalf of clients in this specific domain
+* Academics
+
+====
+
+++ Contact us
+
+If you have other questions please ask the [[[main:discussion | mailing list]]].

@@ -1,0 +1,38 @@
+Making specifications needs lots of opinion, feedback, criticism, and healthy skepticism.  So your voice is a huge part of the process.  There are no stupid questions.  If something is unclear or looks too complex, say so!  The whole point of this community is that we want to make simple designs that are fun to use.
+
+++ Where to discuss
+
+* The [http://lists.digistan.org/mailman/listinfo/{PROJ} mailing list] is the best place for most discussions.  Join the list, scan the archives, and post away.
+
+* You can comment every spec and wiki page.  The page editor and moderators may, over time, remove old comments.  Scroll to the bottom of the page, click "Add a new comment".
+
+* Every spec page has an associated wiki page, where anyone can contribute and comment.  Click on the "Talk" link at the top right of the page.  If there is no talk page, click to create it.
+
+* You can contact the editor of a specification directly, by email.  Every editor is always listed with their email address.
+
+++ When to discuss
+
+You can discuss //anything relevant// on the public list, including aspects of the way the website is set-up and managed.  We're a small community and kind of interested in everything.  If the Community gets larger we'll split this into lists per domain.
+
+When it comes to specifications, understand that the editor of a spec is basically signaling what kind of change he's expecting or prepared to discuss by setting the state of the specification:
+
+* Raw specifications: change is cheap. You can question everything about raw specifications.  Hammer away!
+* Draft specifications: change is going to cost someone something.  The editor will welcome improvements, fixes, errata, clarifications.  He probably won't accept big changes unless they really add something.
+* Stable specifications: change is going to be painful.  The editor will welcome fixes, errata, clarifications.  If you have ideas for big changes, consider making a new specification that layers on top of the existing one.
+* Legacy specifications: change is not going to happen.  There is hopefully a new raw or draft specification somewhere that you could be helping with.
+* Retired specifications: time for a cold beer and debate over the relative merits of the Commodore 64 vs. the Sinclair Spectrum.
+* Deleted specifications: kind of like editing a file that's in the Trash bin.  If you want to work on a deleted spec, fork it into a new raw spec.
+
+++ Privacy
+
+Mostly, we aim to work transparently.  Sometimes that's not the best way, especially when discussing things that may affect the internal politics of products.  We don't care: so long as the specifications get documented.
+
+If you do use the public lists, note that //your email address is visible//, and if this bothers you, get a Gmail address or another that you can use for such things.  Using your company address may tell people things you don't want them to know.
+
+All comments and discussions are considered "Contributions", even if they're trivial, and they fall under the website's [[[main:intellectual property policy]]], which you need to read.  It's not complex.  You agree to share and you declare that you have the right to share.
+
+====
+
+++ Recent comments
+
+[[module MiniRecentPosts limit="10"]]

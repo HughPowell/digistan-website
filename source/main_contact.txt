@@ -1,0 +1,3 @@
+This site is run by and for the {PROJ} community.  The responsible administrator is {WHO}, {EMAIL}.
+
+To contact the {PROJ} community please use the [[[main:discussion | mailing list]]].

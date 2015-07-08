@@ -1,0 +1,35 @@
+++ 1. Register as a Wikidot user
+
+If you're not already a registered Wikidot user, [*http://www.wikidot.com/ sign up now].  //Please use your real name//, so that people know who you are.  If you're shy about using a work email address, sign up using a Gmail account.
+
+++ 2. Make sure you understand what you're doing
+
+You //must read// the [[[main:Intellectual Property Policy]]].  Please note especially that:
+
+# To get write access to this website you must agree to this policy, as well as the [[[main:Terms of Use]]].
+# Your contributions remain your work, and your copyright.
+# When you submit contributions, the results are derived works that are licensed under the GPLv3.
+# You must be allowed to submit contributions by your organization or employer, if any.
+# Your contributions may eventually be submitted, and you permit this, to the IETF under their license.
+
+++ 3. If you work for someone else, get permission
+
+If you work for a company or at a University, it's likely that you're not the copyright holder of anything you make, even in your free time.  Before registering at this site, get written permission from your employer.  If you do submit stuff and afterwards it has to be ripped out and rewritten, people will be very unhappy with you.
+
+++ 4. Mark your agreement
+
+To join this website, please confirm that you have read and agree with the [[[main:Intellectual Property Policy]]] and [[[main:Terms of Use]]] by typing "I agree" in the Password field below, and then click apply:
+
+[[module MembershipByPassword]]
+
+(If you are already a member of this site you will see a warning message instead of a password box.)
+
+====
+
+If you have questions regarding registration, please [[[main:contact]]] us.
+
+++ Relevant policies
+
+* [[[main:Intellectual property policy]]]
+* [[[main:Privacy statement]]]
+* [[[main:Terms of use]]]

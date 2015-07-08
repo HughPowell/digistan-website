@@ -1,0 +1,19 @@
+[[div style="float:left; width: 68%"]]
+%%content{1}%%
+[[/div]]
+[[div style="float:right; width:30%; border:1px solid #cedff2; background:#f5faff; padding: 5px 5px 5px 5px"]]
+%%content{2}%%
+[[/div]]
+~~~~
+
+====
+
+++ Subtitles
+
+content
+
+====
+
+++ Other title
+
+Right hand column

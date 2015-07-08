@@ -1,0 +1,15 @@
+[[div style="float:left; width: 66%; padding: 0 2% 0 2%"]]
+%%content%%
+[[/div]]
+
+[[div style="float:left; width: 28%; padding: 0 1% 0 1%; background-color: #c9d5e7;"]]
+[[button edit-append text="Append"]] | [[button edit text="Edit"]] | [[button files text="Files"]] | [[button tags text="Tags"]] | [[button source text="Source"]] | [[button print text="Print"]]
+
+[[toc]]
+
+[[/div]]
+~~~~
+
+====
+
+This is a new talk page.  Enter the name of the spec in the title box.  Users can add to the talk page by using the Append button.

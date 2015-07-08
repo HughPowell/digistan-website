@@ -1,0 +1,31 @@
+[[div style="margin-top:1em"]]
+* [[[main:Start]]]
+* [[[main:About]]]
+* [[[main:Contact]]]
+* [[[main:Legal]]]
+* [[[main:Intellectual property policy|IP Policy]]]
+[[/div]]
+
+[[div style="margin-top:1em"]]
+* [[[main:discussion | Discuss]]]
+[[/div]]
+
+[[div style="margin-top:1em"]]
+* [[[main:editors |Current editors]]]
+[[/div]]
+[[div style="margin-top:1em"]]
+* [[[admin:manage|Administer site]]]
+[[/div]]
+
+[[div style="margin-top:1.5em; margin-left:1em; font-size:80%"]]
+[[[main:privacy-statement|Privacy]]] | [[[main:Terms of use]]]
+Copyright (c) the Contributors.  Where not otherwise specified, the contents of this site are licensed under the Creative Commons Attribution Share-alike (cc-by-sa) license 3.0.
+[[/div]]
+
+**{PROJ} news**
+
+[[div style="font-size:80%"]]
+[[module Feed src="http://blogsearch.google.com/blogsearch_feeds?hl=en&client=news&q={PROJ}+-github&ie=utf-8&num=10&output=rss"]]
+**%%linked_title%%** (%%date|%O ago%%)
+[[/module]]
+[[/div]]

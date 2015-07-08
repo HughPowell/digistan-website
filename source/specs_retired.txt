@@ -1,0 +1,6 @@
+[[module ListPages category="spec" tags="retired" ]]
+[[div style="border:1px solid #808080; background:#eaeaea; padding: 0 1em 0 1em; margin:1em"]]
+**%%linked_title%%** - //Retired//
+%%short%%
+[[/div]]
+[[/module]]

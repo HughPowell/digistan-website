@@ -1,0 +1,103 @@
+[[div style="float:left; width: 68%"]]
+
+%%content%%
+
+[[/div]]
+
+[[div style="float:right; width:30%; border:1px solid #cedff2; background:#f5faff; padding: 5px 5px 5px 5px"]]
+[[button edit text="Edit"]] | [[button files text="Files"]] | [[button tags text="Tags"]] | [[button source text="Source"]] | [[button print text="Print"]] | [[[talk:%%page_unix_name%%|Talk]]]
+
+[[toc]]
+
+Use the **[[[talk:%%page_unix_name%%|Talk]]]** page to discuss this specification.
+
+Use //one// of these tags to define the specification's state:
+
+* **raw** - new specification
+* **draft** - has at least one implementation.
+* **stable** - has been deployed to real users.
+* **legacy** - is being replaced by newer specifications.
+* **retired** - has been replaced and is no longer used.
+* **deleted** - abandoned before becoming stable.
+
+[[module ListPages category="spec" tags="raw" ]]
+[[div style="border:1px solid #840420; background:#d2b3ba; padding: 0 1em 0 1em; margin:1em"]]
+**%%linked_title%%** - //Raw//
+[[/div]]
+[[/module]]
+
+[[module ListPages category="spec" tags="draft" ]]
+[[div style="border:1px solid #005800; background:#adc2ad; padding: 0 1em 0 1em; margin:1em"]]
+**%%linked_title%%** - //Draft//
+[[/div]]
+[[/module]]
+
+[[module ListPages category="spec" tags="stable" ]]
+[[div style="border:1px solid #684622; background:#a39485; padding: 0 1em 0 1em; margin:1em"]]
+**%%linked_title%%** - //Stable//
+[[/div]]
+[[/module]]
+
+[[module ListPages category="spec" tags="legacy" ]]
+[[div style="border:1px solid #000069; background:#bebecf; padding: 0 1em 0 1em; margin:1em"]]
+**%%linked_title%%** - //Legacy//
+[[/div]]
+[[/module]]
+
+[[module ListPages category="spec" tags="retired" ]]
+[[div style="border:1px solid #808080; background:#eaeaea; padding: 0 1em 0 1em; margin:1em"]]
+**%%linked_title%%** - //Retired//
+[[/div]]
+[[/module]]
+
+[[module ListPages category="spec" tags="deleted" ]]
+[[div style="border:1px solid #000000; background:#a0a0a0; padding: 0 1em 0 1em; margin:1em"]]
+**%%linked_title%%** - //Deleted//
+[[/div]]
+[[/module]]
+
+[[/div]]
+~~~~
+
+====
+
+[One-paragraph summary of specification]
+
+* Name: www.{PROJ}.org/spec:[nbr]/[shortname]
+* Editor: [your name] <[your email]>
+* Contributors: [any other contributors]
+* State: raw
+
+++ License
+
+Copyright (c) <year> <your name>
+
+This Specification is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+
+This Specification is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License along with this program; if not, see <http://www.gnu.org/licenses>.
+
+++ Change Process
+
+This document is governed by the Digital Standards Organization [http://www.digistan.org/spec:1/COSS Consensus-Oriented Specification System] (COSS).
+
+++ Language
+
+The key words "MUST", "MUST NOT", "REQUIRED", "SHALL", "SHALL NOT", "SHOULD", "SHOULD NOT", "RECOMMENDED",  "MAY", and "OPTIONAL" in this document are to be interpreted as described in RFC 2119[((bibcite rfc2119))].
+
+++ Goals
+
+[list the goals of this specification]
+
+++ Architecture
+
+[describe the architecture of the specification]
+
+[describe other relevant aspects]
+
+++ References
+
+[[bibliography]]
+: rfc2616 : "HTTP/1.1 Protocol Parameters" - http://www.w3.org/Protocols/rfc2616/rfc2616-sec3.html w3.org]
+[[/bibliography]]

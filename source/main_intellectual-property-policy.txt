@@ -1,0 +1,102 @@
+This document defines the official policy of the www.{PROJ}.org Community regarding copyrights, trademarks, patents, and other rights as they pertain to Contributions made to this Website.
+
+++ Goal of the Community
+
+The Community aims to develop free and open Specifications through the Contributions of individuals and organizations, and thus to promote the interoperability of software products developed by the Community.  The Community additionally aims to prepare Specifications for eventual submission to the IETF.
+
+++ Legal basis
+
+Under the laws of most countries and current international treaties (for example the "Berne Convention for the Protection of Literary and Artistic Work"), authors obtain numerous rights in the works they produce automatically upon producing them.  These rights include copyrights, moral rights and other rights.  In many cases, if the author produces a work within the scope of his or her employment, most of those rights are usually assigned to the employer, either by operation of law or, in many cases, under contract.  (The Berne Convention names some rights as "inalienable", which means that the author retains them in all cases.)
+
+++ Purpose of this Policy
+
+The Community does not seek to disparage the legitimate rights of any individual or organization to assert ownership over their Contributions.  However, the Community must ensure that Contributions do not pollute the free and open nature of the Specifications developed here.  Preventing such pollution means that in perpetuity, any entity inside and outside the Community may independently, and without payment or hindrance, create, use, sell, distribute, or dispose of Implementations of any Specification developed here.  Such is the intent of this Policy.
+
+++ How this Policy works
+
+In order for works to be used as Contributions to this Website, certain rights in all Contributions must be granted to the Community.  Contributors do this by licensing their Contributions under a standard License.  In addition, Contributors must make representations to the Community regarding their ability to grant these rights.  Contributors do this by reading and accepting this Policy before gaining Contributor access to the Website.
+
+++ Definitions
+
+* The "Community" is the self-organizing collection of individuals and organizations who have made Contributions to this Website, together with the individuals and organizations that use or may at any point use, or wish to use, in any fashion, the Specifications developed on this Website, in any fashion, or Implementations of those Specifications.
+* A "Contribution" is any item of work that is covered by copyright, moral rights, or other rights, and which is submitted to this Website.  Contributions may include, but are not limited to: partial or complete texts, designs, schemas, images, source code, and video and audio files.
+* A "Contributor" is a person or entity who submits Contributions to this Website.  Each person actually submitting the Contribution, and each named co-Contributor, is deemed to agree to this Policy, on his or her own behalf and on behalf of the organization the Contributor represents or is sponsored by (if any) when submitting the Contribution.
+* A "Specification" is any collection of one or more Contributions, made available through this Website.  Specifications may include, but are not limited to: protocols, user interface guidelines, API definitions, XML schemas, methodologies, flow charts, etc.
+* A "Derived Work" is any work derived from, as defined in the License, Contributions or Specifications.  Software programs that implement Specifications are //not// Derived Works.
+* A "Free and Open" Specification is one that may be copied, displayed, published, translated, partially or fully reused, modified, and distributed by the Community, in perpetuity, independently, and without payment or hindrance, under the terms of the License.
+* An "Implementation" is any software program that implements the functionality defined in a Contribution or Specification.  Implementations may, in perpetuity, independently, and without payment or hindrance, be created, used, sold, distributed, or disposed in any way desired, by the Community.
+* The "License" is the Free Software Foundation's [http://www.fsf.org/licensing/licenses/gpl.html General Public License version 3], or any later version.  For the purposes of the License, "source code" is defined as being any Contribution.
+* The "Website" refers to any website operated on the following Internet domain: www.{PROJ}.org, and supporting communications channels including but not limited to: email lists and irc channels.
+* The "Operators" refer to the operators of the Website, who are responsible for writing this Policy, enforcing it, and updating it.
+
+++ Access to the Website
+
+To gain write access, be it limited or full, to the Website, Contributors must read and agree to this Policy as well as the Terms of Use currently in force for the Website.  The Operators may, at their sole discretion, and without warning or compensation, remove access from any Contributor who they deem has violated this Policy.
+
+++ Submission of Contributions
+
+By submission of a work to this Website in the form of a Contribution, the Contributor merges their work with the Website, with or without other Contributions, to create a Derived Work, owned by the Contributor, the Operators, and any other Contributors.  The Contributor agrees irrevocably to license this Derived Work under the License and the terms of this Policy.  The Contributor retains all rights over their original work.
+
+++ Representations
+
+With respect to each Contribution, each Contributor represents that to the best of his or her knowledge and ability:
+
+# No information in the Contribution is confidential and the Community may freely disclose any information in the Contribution.
+# There are no limits to the Contributor's ability to make the grants, acknowledgments and agreements herein that are reasonably and personally known to the Contributor.
+# The Contributor has not intentionally included in the Contribution any material which is defamatory or untrue or which is illegal under the laws of the jurisdiction in which the Contributor has his or her principal place of business or residence.
+# All trademarks, trade names, service marks and other proprietary names used in the Contribution that are reasonably and personally known to the Contributor are clearly designated as such where reasonable.
+
+++ Patents
+
+To the extent that a Contributor or the organization he or she represents or is sponsored by (if any) has or acquires patent claims that would be necessarily infringed by a compliant implementation of any part of any Specification, they grant a perpetual, irrevocable, non-exclusive, royalty-free, world-wide right and license to the Community with respect to their patent claims for such purpose.
+
+++ Derived Works
+
+Third parties may create Derived Works under the terms of the License.  Derived Works may not contain misleading author, version, name of work, or endorsements.  Software applications that implement specifications are //not// Derived Works and do not fall under the terms of the License.  The use of a fragments of specification for purely illustrative purposes does not create a Derived Work.
+
+++ Attribution
+
+All direct Contributors to a Specification should be named in the Specification text.  Derived Works may, but do not need to, name the Contributors to the Specifications they are based on.  Derived Works must state clearly which specifications they are derived from, if any, using a canonical resource identifier defined by the Community.
+
+++ Intent to Deliver Standards
+
+The Contributor agrees to additionally license their Contributions, Derived Works, and Specifications under whichever [http://tools.ietf.org/wg/ipr/ IETF license] is applicable at time of such submission, for the sole purpose of submission as an "Internet Request for Comments" through the IETF, where "IETF" means the Internet Engineering Task Force or whatever body eventually replaces or subsumes it.
+
+++ Updates to this Policy
+
+The Contributor recognizes that over time, this Policy will need corrections and updating, and grants the Operators the right to issue new versions of this Policy at any time, and without prior notice.  The Operators will post notice of new versions of this Policy, and Contributors may at any time cease being Contributors, without effect on their prior Contributions.
+
+++ Trademarks
+
+Contributors, and each named co-Contributor, who claim trademark rights in terms used in their Contributions are requested to state Specifically what conditions apply to implementers of the technology relative to the use of such trademarks.
+
+++ Legal Notices
+
+All Specifications shall contain the following Legal Notices:
+
+> Copyright (c) [years] [named Contributors in order of date]
+>
+> This Specification is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 3 of the License, or (at your option) any later version.
+>
+> This Specification is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+>
+> You should have received a copy of the GNU General Public License along with this program; if not, see <http://www.gnu.org/licenses>.
+
+====
+
+++ Related pages
+
+* [[[main:Terms of Use]]]
+* [[[main:Privacy Policy]]]
+
+++ Notes
+
+* This policy is specifically designed for a community with no centralizing legal entity.  There are no transfers of copyright.  Every contributor owns his/her work, in perpetuity, but grants a unilateral license for others to use and extend it under the conditions of the GPLv3.
+
+* The IP policy uses the [http://www.fsf.org/licensing/licenses/gpl.html GPLv3] as the license covering contributions and derived works (specifications, among others).
+
+* The first reason for using GPLv3 is its treatment of patents, and its suitability for this kind of work, if "source code" is clearly defined as being contributions and specifications.
+
+* The second reason for using the GPLv3 is its treatment of forking, and the guarantee that derived works can be forked (essential to allow experiments to be merged back into stable specifications).  We consider forking and merging to be an essential part of the process.
+
+* The IP policy allows specifications to be submitted to the IETF under the license terms of the IETF.  These license terms //may not// be applied to specifications - to create unforkable derived works  - except as part of the IETF submission process.

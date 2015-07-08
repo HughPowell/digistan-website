@@ -1,0 +1,5 @@
+[[module ListPages perPage="9999" limit="0" category="*" separate="no"]]
+%%category%%:%%linked_title%%
+[[/module]]
+
+====
